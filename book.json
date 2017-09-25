@@ -1,0 +1,15 @@
+{
+    "plugins": ["katex","autocover"],
+    "pdf": {
+      "pageNumbers": true,
+      "fontFamily": "Nono Serif CJK",
+      "fontSize": 12,
+      "paperSize": "b5",
+      "margin": {
+        "right": 55,
+        "left": 55,
+        "top": 50,
+        "bottom": 50
+      }
+    }
+}
