@@ -1,3 +1,3 @@
-# My Awesome Book
+# 说明
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+因特网哲学百科（Internet Encyclopedia of Philosophy）与逻辑相关词条的中文翻译。
